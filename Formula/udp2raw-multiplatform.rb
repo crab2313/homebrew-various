@@ -1,5 +1,5 @@
 class Udp2rawMultiplatform < Formula
-  desc "Multi-platform(cross-platform) version of udp2raw-tunnel. Client-Only."
+  desc "Multi-platform(cross-platform) version of udp2raw-tunnel (client-Only)"
   homepage "https://github.com/wangyu-/udp2raw-multiplatform"
   url "https://github.com/wangyu-/udp2raw-multiplatform/archive/refs/tags/20210111.0.tar.gz"
   sha256 "712ad3c79b6ef5bf106c615823d0b0b3865d1c957f9838cf05c23b7ac7024438"
